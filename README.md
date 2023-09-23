@@ -68,8 +68,6 @@
     <a href="https://www.facebook.com/phuc.quyet.1202" target="blank">
       <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="phucquyet1202-facebook" />
     </a>
-    
-   
   </div>
 </div>
 
